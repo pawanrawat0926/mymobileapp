@@ -1,2 +1,2 @@
 # mymobileapp
-mobile app for teachers
+myfirst mobile app for rrd
